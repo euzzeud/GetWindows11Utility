@@ -10,7 +10,7 @@ This utility is really easy to use: select the ISO destination folder and press 
 
 No! The version on this Github is verified. If you download this utility from this repo, no chance of installing malware on your PC! On the other hand, attention to the other versions of the utility offered outside this Github.
 
-[Avast CyberCapture test screenshots](https://raw.githubusercontent.com/euzzeud/GetWindows11Utility/main/screenshots/cybercapture_test.png)
+[Avast CyberCapture test screenshots](https://media.discordapp.net/attachments/775858924418629683/860606496127058010/unknown.png)
 *Avast CyberCapture test.*
 ##### _Where is the Windows leak ISO file stored?_
 
