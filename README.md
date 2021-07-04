@@ -15,7 +15,7 @@ No! The version on this Github is verified. If you download this utility from th
 
 ##### _Where is the Windows leak ISO file stored?_
 
-On OneDrive! Here is the share link: https://1drv.ms/u/s!AtW6XcMarBeIbLUgW9GC4XEChsk?e=NBICVo
+On OneDrive!
 
 ##### _Screenshots_
 
