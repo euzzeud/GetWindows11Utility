@@ -1,6 +1,6 @@
 ## Get Windows 11
 
-##### _A utility that allows you to download the ISO of the Windows 11 build leak!_
+##### _A utility that allows you to download the ISO of Windows 11._
 
 _This software is an open source [VB.net](https://en.wikipedia.org/wiki/Visual_Basic_.NET) project._
 
@@ -13,7 +13,7 @@ No! The version on this Github is verified. If you download this utility from th
 ![Avast CyberCapture test screenshot](https://raw.githubusercontent.com/euzzeud/GetWindows11Utility/main/screenshots/cybercapture_test.png)
 *Avast CyberCapture test.*
 
-##### _Where is the Windows leak ISO file stored?_
+##### _Where is the Windows ISO file stored?_
 
 On OneDrive!
 
