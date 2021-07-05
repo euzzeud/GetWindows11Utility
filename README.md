@@ -15,7 +15,7 @@ No! The version on this Github is verified. If you download this utility from th
 
 ##### _Where is the Windows ISO file stored?_
 
-On OneDrive! Here is the share link: https://1drv.ms/u/s!At2YLE8H_9mBhH4xjrhjtfZK6sql?e=xtoIv5
+On MediaFire 🔥!
 
 ##### _Screenshots_
 
