@@ -21,7 +21,7 @@ No! The version on this Github is verified. If you download this utility from th
 ![Avast CyberCapture test screenshot](https://raw.githubusercontent.com/euzzeud/GetWindows11Utility/main/screenshots/cybercapture_test.png)
 *Avast CyberCapture test.*
 
-### _Where is the Windows ISO file stored?_
+### _🚩 Where is the Windows ISO file stored?_
 
 On my [webserver](https://euzzeud.x-h.fr)!
 
