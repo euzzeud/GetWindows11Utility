@@ -14,7 +14,7 @@ We are not responsible for any damage that maybe done on your PC following the i
 
 __Tip:__ Do not install a beta version of Windows on your main PC! 😉
 
-### _Does the software contain malwares?_
+### _☠ Does the software contain malwares?_
 
 No! The version on this Github is verified. If you download this utility from this repo, no chance of installing malware on your PC! On the other hand, attention to the other versions of the utility offered outside this Github.
 
@@ -25,7 +25,7 @@ No! The version on this Github is verified. If you download this utility from th
 
 On my [webserver](https://euzzeud.x-h.fr)!
 
-### _Screenshots_
+### _📊 Screenshots_
 
 ![Main menu screenshot](https://raw.githubusercontent.com/euzzeud/GetWindows11Utility/main/screenshots/main.png)
 *Main menu.*
