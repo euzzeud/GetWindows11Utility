@@ -10,7 +10,7 @@ This utility is really easy to use: select the ISO destination folder and press 
 
 _Get Windows 11 is not affiliated with Microsoft Corporation and Windows, a registered trademark of Microsoft Corporation._
 
-We are not responsible for any damage that maybe done on your PC following the installation of this version which is a developer beta version (build: 22000.1.210604-1628), available in the _[Windows Insider program](https://insider.windows.com/).
+We are not responsible for any damage that maybe done on your PC following the installation of this version which is a developer beta version (build: 22000.1.210604-1628), available in the *[Windows Insider program](https://insider.windows.com/)*.
 
 __Tip:__ Do not install a beta version of Windows on your main PC! 😉
 
