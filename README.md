@@ -1,6 +1,6 @@
 # Get Windows 11
 
-## _A utility that allows you to download the ISO of Windows 11._
+### _A utility that allows you to download the ISO of Windows 11._
 
 _This software is an open source [VB.net](https://en.wikipedia.org/wiki/Visual_Basic_.NET) project._
 
@@ -10,9 +10,7 @@ This utility is really easy to use: select the ISO destination folder and press 
 
 _Get Windows 11 is not affiliated with Microsoft Corporation and Windows, a registered trademark of Microsoft Corporation._
 
-We are not responsible for any damage that maybe done on your PC following the installation of this version which is a developer beta version (**build: 22000.1.210604-1628**), available in the *[Windows Insider program](https://insider.windows.com/)*.
-
-__Tip:__ Do not install a beta version of Windows on your main PC! 😉
+Windows 11 was released on October 6, 2021 and available on Microsoft's website for free and legally: [click here](https://www.microsoft.com/en-us/software-download/windows11)!
 
 ### _☠ Does the software contain malwares?_
 
