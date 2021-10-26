@@ -21,7 +21,7 @@ No! The version on this Github is verified. If you download this utility from th
 
 ### _🚩 Where is the Windows ISO file stored?_
 
-Windows 11 was released on October 6, 2021 and available on Microsoft's website for free and legally: [click here](https://www.microsoft.com/en-us/software-download/windows11)!
+Windows 11 was released on October 6, 2021 and available on Microsoft's website for free and legally: [click here](https://www.microsoft.com/en-us/software-download/windows11)!  
 I no longer host the ISO file.
 
 ### _📊 Screenshots_
